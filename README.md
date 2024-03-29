@@ -1,2 +1,2 @@
-[Live Link :](https://gateway-topaz.vercel.app/)
+[Live Link](https://gateway-topaz.vercel.app/)
 
