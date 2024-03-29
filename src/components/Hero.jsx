@@ -26,7 +26,7 @@ const Hero = () => {
         className="sm:h-full pt-10 w-[500px] hidden sm:block bg-white ps-10"
         style={{ borderTopLeftRadius: "70%", borderBottomLeftRadius: "50%" }}
       >
-        <img className="h-full" src={gatewayImg} alt="" srcset="" />
+        <img className="h-full" src={gatewayImg} alt="" />
       </div>
     </div>
   );
