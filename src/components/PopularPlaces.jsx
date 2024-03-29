@@ -81,15 +81,15 @@ const PopularPlaces = () => {
         breakpoints={{
           700: {
             slidesPerView: 2,
-            slidesPerGroup: 2,
+            slidesPerGroup: 1,
           },
           970: {
             slidesPerView: 3,
-            slidesPerGroup: 3,
+            slidesPerGroup: 1,
           },
           1279: {
             slidesPerView: 4,
-            slidesPerGroup: 4,
+            slidesPerGroup: 1,
           },
         }}
         scrollbar={true}
