@@ -79,15 +79,15 @@ const PopularPlaces = () => {
           enabled: true,
         }}
         breakpoints={{
-          769: {
+          700: {
             slidesPerView: 2,
             slidesPerGroup: 2,
           },
-          1200: {
+          970: {
             slidesPerView: 3,
             slidesPerGroup: 3,
           },
-          1500: {
+          1279: {
             slidesPerView: 4,
             slidesPerGroup: 4,
           },
