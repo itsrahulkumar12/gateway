@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <div className="flex flex-col sm:flex-row justify-between items-center h-[250px] bg-[#F1D732]">
       <div className=" h-full w-full flex justify-center items-center mt-8">
-        <div className="h-[150px] w-full mx-20 min-w-[200px] px-10 md:px-20 bg-[#1B1D36] rounded-xl flex gap-5 items-center justify-center flex-col shadow-xl">
+        <div className="h-[150px] w-full mx-10 sm:mx-20 min-w-[200px] px-10 md:px-20 bg-[#1B1D36] rounded-xl flex gap-5 items-center justify-center flex-col shadow-xl">
           <center className="text-[28px] leading-7 text-[#F1D732] font-normal">
             Find your destination
           </center>
